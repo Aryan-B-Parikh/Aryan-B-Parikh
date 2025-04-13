@@ -2,7 +2,7 @@
 
 <h1>💫 About Me </h1>
 
-<img align="right" alt="Coding Animation" width="150" height="103" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" alt="Coding Animation" width="150" height="105" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p>
 - 🚀 Hi, I'm <strong>Aryan Parikh</strong><br>
