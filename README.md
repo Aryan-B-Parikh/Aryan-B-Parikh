@@ -2,17 +2,16 @@
 
 <h1>💫 About Me </h1>
 
-<img align="right" alt="Coding" width="90" height="80" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVoYXIzZDY3MHFsdWxheXlqbnh5bHJ2aTlydm01OTRoZXBmMDA5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="Coding Animation" width="120" src=" https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVoYXIzZDY3MHFsdWxheXlqbnh5bHJ2aTlydm01OTRoZXBmMDA5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif
+">
 
 <p>
-  🚀 Hi, I'm <strong>Aryan Parikh</strong><br>
-  👨‍💻 A Computer Engineering Enthusiast passionate about learning and exploring new areas in software and hardware.<br>
-  📍 Currently pursuing my studies at <strong>CHARUSAT</strong>
+- 🚀 Hi, I'm <strong>Aryan Parikh</strong><br>
+- 👨‍💻 A Computer Engineering Enthusiast passionate about learning and exploring new areas in software and hardware.<br>
+- 📍 Currently pursuing my studies at <strong>CHARUSAT</strong>
 </p>
 
 </div>
-
-
 
 ---
 
@@ -41,7 +40,6 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1E90FF.svg?style=for-the-badge&logo=python&logoColor=white)
-
 ---
 
 <h2>📊 GitHub Stats</h2><br>
