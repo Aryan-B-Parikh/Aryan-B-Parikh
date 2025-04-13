@@ -2,8 +2,7 @@
 
 <h1>💫 About Me </h1>
 
-<img align="right" alt="Coding Animation" width="120" src=" https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVoYXIzZDY3MHFsdWxheXlqbnh5bHJ2aTlydm01OTRoZXBmMDA5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif
-">
+<img align="right" alt="Coding Animation" width="120" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p>
 - 🚀 Hi, I'm <strong>Aryan Parikh</strong><br>
