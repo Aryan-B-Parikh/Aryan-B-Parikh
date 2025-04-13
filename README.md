@@ -7,7 +7,8 @@
 <p>
 - 🚀 Hi, I'm <strong>Aryan Parikh</strong><br>
 - 👨‍💻 A Computer Engineering Enthusiast passionate about learning and exploring new areas in software and hardware.<br>
-- 📍 Currently pursuing my studies at <strong>CHARUSAT</strong>
+- 📍 Currently pursuing my studies at <strong>CHARUSAT</strong><br>
+- 📫 How to reach me : aryan81006@gmail.com 
 </p>
 
 </div>
