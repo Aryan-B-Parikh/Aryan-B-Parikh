@@ -88,19 +88,42 @@
 #### ⚡ Streaks
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aryanparikh&theme=dark&card_width=900&card_height=300" />
-    <img src="https://streak-stats.demolab.com?user=aryanparikh&theme=radical" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Aryan-B-Parikh&theme=dark&card_width=900&card_height=300" />
+    <img src="https://streak-stats.demolab.com?user=Aryan-B-Parikh&theme=radical" />
   </picture>
 </div>
 
 #### ⚡ Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanparikh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-B-Parikh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%" />
 </p>
 
 #### 📊 GitHub Stats
 <pre align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanparikh&theme=radical" alt="Top Languages" />  <img src="https://github-readme-stats.vercel.app/api?username=aryanparikh&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-B-Parikh&theme=radical" alt="Top Languages" />  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-B-Parikh&theme=radical" alt="GitHub Stats" />
 </pre>
+
+---
+
+### 🏆 Achievements:
+- Developed and deployed several web and app projects.
+- Contributed to various open-source projects in AI and IoT.
+- Completed multiple online coding challenges and hackathons.
+- Developed an IoT-based home automation system using ESP32.
+
+---
+
+### 🛠️ Current Projects:
+- **Personal Growth**: Focusing on improving my knowledge in cloud computing, AI, and full-stack development.
+- **Open-Source Contributions**: Actively contributing to projects related to IoT and smart home solutions.
+
+---
+
+### 💡 Fun Projects & Experiments:
+- **Smart Home Automation**: Built an IoT solution using ESP32 for home automation.
+- **AI Chatbots**: Developed a simple AI chatbot for interactive conversations.
+- **Weather Dashboard**: Created a real-time weather monitoring dashboard with data from IoT sensors.
+
+---
 
 Feel free to connect, collaborate, or follow my journey as I innovate and learn! 🚀
