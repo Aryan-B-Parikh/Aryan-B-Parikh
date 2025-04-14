@@ -8,7 +8,7 @@
 - 🚀 Hi, I'm <strong>Aryan Parikh</strong><br>
 - 👨‍💻 A Computer Engineering Enthusiast passionate about learning and exploring new areas in software and hardware.<br>
 - 📍 Currently pursuing my studies at <strong>CHARUSAT</strong><br>
-- 📫 How to reach me : aryan81006@gmail.com 
+- 📫 How to reach me : aryan81006@gmail.com
 </p>
 
 </div>
@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Aryan-B-Parikh&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&card_width=800&fire=FFA500&ring=1E90FF&currStreakLabel=FFA500" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Aryan-B-Parikh&theme=light&date_format=M%20j%5B%2C%20Y%5D&card_width=800&fire=3F51B5&ring=663AB4&currStreakLabel=3F51B5" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 <h2 align="center">🛠️ Contributions 🛠️</h2>
 <br />
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-B-Parikh&theme=react-dark&bg_color=0D1117&color=FFA500&line=1E90FF&point=FFA500&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-B-Parikh&theme=github_light&bg_color=F0F8FF&color=3F51B5&line=663AB4&point=3F51B5&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -39,13 +39,13 @@
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1E90FF.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-663AB4.svg?style=for-the-badge&logo=python&logoColor=F0F8FF)
 ---
 
 <h2>📊 GitHub Stats</h2><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-B-Parikh&layout=compact&theme=tokyonight)](https://github.com/Aryan-B-Parikh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-B-Parikh&layout=compact&theme=light)](https://github.com/Aryan-B-Parikh)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Aryan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-B-Parikh&theme=tokyonight&show_icons=true)](https://github.com/Aryan-B-Parikh)
+[![Aryan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-B-Parikh&theme=light&show_icons=true)](https://github.com/Aryan-B-Parikh)
 
 </div>
