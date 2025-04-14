@@ -17,10 +17,10 @@
 
 <h2 align="center">🔥 Streaks 🔥</h2>
 <br />
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Aryan-B-Parikh&theme=light&date_format=M%20j%5B%2C%20Y%5D&card_width=800&fire=3F51B5&ring=663AB4&currStreakLabel=3F51B5" alt="GitHub Streak" />
-  </a>
+<p align=center>
+  <div align=center>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aryan-B-Parikh&theme=github-dark-blue&card_width=900&card_height=300" alt="GitHub Streak" /></a>
+  </div>
 </p>
 
 ---
