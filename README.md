@@ -1,53 +1,76 @@
-<div align="left" style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
+<div align="center">
 
-<h1>💫 About Me </h1>
+# 💫 About Me
 
-<img align="right" alt="Coding Animation" width="150" height="115" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+---
+
+<div align="left">
+
+<img align="right" alt="Coding Animation" width="180" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+
+- 🚀 Hi, I'm **Aryan Parikh**  
+- 👨‍💻 A passionate _Computer Engineering Enthusiast_ who loves exploring both software and hardware realms.  
+- 📍 Currently pursuing my studies at **CHARUSAT**  
+- 📫 Reach me at: [**aryan81006@gmail.com**](mailto:aryan81006@gmail.com)
+
+</div>
+
+---
+
+</div>
+
+
+---
+
+<h2 align="center">🔥 Streaks</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Aryan-B-Parikh&theme=highcontrast&hide_border=true&stroke=1B1F23&ring=663AB4&fire=663AB4&currStreakNum=FFFFFF&currStreakLabel=663AB4&background=000000" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Contributions</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-B-Parikh&theme=github-compact&bg_color=000000&color=663AB4&line=663AB4&point=FFFFFF&hide_border=true" width="100%" />
+</p>
+
+---
+
+<div align="center">
+
+# 💻 Tech Stack
 
 <p>
-- 🚀 Hi, I'm <strong>Aryan Parikh</strong><br>
-- 👨‍💻 A Computer Engineering Enthusiast passionate about learning and exploring new areas in software and hardware.<br>
-- 📍 Currently pursuing my studies at <strong>CHARUSAT</strong><br>
-- 📫 How to reach me : aryan81006@gmail.com
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-663AB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-<h2 align="center" style="color: white;">🔥 Streaks 🔥</h2>
-<br />
-<p align=center>
-  <div align=center>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=Aryan-B-Parikh&theme=github-dark&card_width=900&card_height=300" alt="GitHub Streak" />
-    </a>
-  </div>
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
 
----
-
-<h2 align="center" style="color: white;">🛠️ Contributions 🛠️</h2>
-<br />
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-B-Parikh&theme=github-dark&bg_color=000000&color=FFFFFF&line=663AB4&point=3F51B5&hide_border=true" width="100%"/>
+  <a href="https://github.com/Aryan-B-Parikh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-B-Parikh&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=663AB4&text_color=FFFFFF" alt="Top Languages"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aryan-B-Parikh">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aryan-B-Parikh&theme=github_dark&show_icons=true&hide_border=true&bg_color=000000&title_color=663AB4&text_color=FFFFFF&icon_color=663AB4" alt="Aryan's GitHub Stats"/>
+  </a>
 </p>
 
 ---
 
-<div align="center" style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
+<div align="center">
 
-<h2>💻 Tech Stack</h2><br>
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-663AB4.svg?style=for-the-badge&logo=python&logoColor=F0F8FF)
----
-
-<h2>📊 GitHub Stats</h2><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-B-Parikh&layout=compact&theme=dark)](https://github.com/Aryan-B-Parikh)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Aryan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-B-Parikh&theme=dark&show_icons=true)](https://github.com/Aryan-B-Parikh)
+🧠 *Always curious. Always learning.*  
+🚀 *Let's build something amazing together!*
 
 </div>
