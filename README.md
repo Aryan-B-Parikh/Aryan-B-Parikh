@@ -9,15 +9,27 @@
 
 ---
 
-<div align="left">
-
-<img align="right" alt="Coding Animation" width="180" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<table>
+<tr>
+<td width="70%" valign="center">
 
 - 🚀 Hi, I'm **Aryan Parikh**  
 - 👨‍💻 A passionate _Computer Engineering Enthusiast_ who loves exploring both software and hardware realms.  
-- 📍 Currently pursuing my studies at **CHARUSAT**
+- 📍 Currently pursuing my studies at **CSPIT CHARUSAT**
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Coding Animation" width="180" />
+
+</td>
+</tr>
+</table>
+
+---
 
 </div>
+
 
 ---
 
