@@ -4,14 +4,18 @@
 
 ---
 
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=663AB4&background=000000&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Aryan+Parikh!)](https://git.io/typing-svg)
+
+---
+
 <div align="left">
 
 <img align="right" alt="Coding Animation" width="180" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 - 🚀 Hi, I'm **Aryan Parikh**  
 - 👨‍💻 A passionate _Computer Engineering Enthusiast_ who loves exploring both software and hardware realms.  
-- 📍 Currently pursuing my studies at **CHARUSAT**  
-- 📫 Reach me at: [**aryan81006@gmail.com**](mailto:aryan81006@gmail.com)
+- 📍 Currently pursuing my studies at **CHARUSAT**
 
 </div>
 
@@ -19,6 +23,21 @@
 
 </div>
 
+---
+
+<h2 align="center">🔗 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:aryan81006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-663AB4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-parikh-548228316/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-663AB4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Aryan-B-Parikh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-663AB4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
 ---
 
@@ -64,6 +83,14 @@
   <a href="https://github.com/Aryan-B-Parikh">
     <img src="https://github-readme-stats.vercel.app/api?username=Aryan-B-Parikh&theme=github_dark&show_icons=true&hide_border=true&bg_color=000000&title_color=663AB4&text_color=FFFFFF&icon_color=663AB4" alt="Aryan's GitHub Stats"/>
   </a>
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryan-B-Parikh&theme=onestar&no-frame=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues&background=000000&margin-w=15&title_color=663AB4" alt="GitHub Trophies" />
 </p>
 
 ---
