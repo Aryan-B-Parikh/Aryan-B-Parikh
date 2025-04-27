@@ -80,6 +80,19 @@
 
 ---
 
+<h2 align="center">💻 Some Cool Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Aryan-B-Parikh/Python/blob/main/Projects/To_Do_List_App.py">
+    <img src="https://img.shields.io/badge/ToDo%20List-663AB4?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aryan-B-Parikh/CPP/blob/main/Projects/quiz.cpp">
+    <img src="https://img.shields.io/badge/Quiz-663AB4?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
