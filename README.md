@@ -107,13 +107,6 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryan-B-Parikh&theme=onestar&no-frame=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues&background=000000&margin-w=15&title_color=663AB4" alt="GitHub Trophies" />
-</p>
-
----
 
 <div align="center">
 
