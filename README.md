@@ -4,6 +4,7 @@
 </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Aryan+Parikh+%F0%9F%91%8B;Welcome+to+my+profile+!" alt="Typing SVG" />
 
+
 <table>
 <tr>
 <td width="70%" valign="center">
