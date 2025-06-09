@@ -8,8 +8,8 @@
 <tr>
 <td width="70%" valign="center">
 
-- 💻 Passionate about **Artificial Intelligence** and **Data Science**
 - 👨‍💻 A **Computer Engineering enthusiast** passionate about exploring both software and hardware realms.
+- 💻 Passionate about **Artificial Intelligence** and **Data Science**
 - 🌱 Currently learning: C, C++, Python
 - 📍 Currently pursuing **Computer Engineering at CSPIT, CHARUSAT**
 
