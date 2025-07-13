@@ -4,26 +4,22 @@
 </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Aryan+Parikh+%F0%9F%91%8B;Welcome+to+my+profile+!" alt="Typing SVG" />
 
-
-
 <table>
 <tr>
 <td width="70%" valign="center">
 
 - 👨‍💻 A **Computer Engineering enthusiast** passionate about exploring both software and hardware realms.
-- 💻 Passionate about **Artificial Intelligence** and **Data Science**
-- 🌱 Currently learning: C, C++, Python
-- 📍 Currently pursuing **Computer Engineering at CSPIT, CHARUSAT**
+- 💻 Passionate about **Artificial Intelligence**, **Data Science**, and **Web Development**
+- 🌱 Currently learning: Java, JavaScript, MySQL
+- 🧠 Familiar with: C, C++, Python, HTML, CSS, Git & GitHub
+- 📍 Currently in **2nd year of Computer Engineering at CSPIT, CHARUSAT**
 
 </td>
 <td width="30%" align="center">
-
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="200" align="center" />
-
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -67,11 +63,32 @@
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 </div>
 
 ---
+---
+
+## 🚧 Currently Working On
+
+### ♻️ [ReWear – Community Clothing Exchange](https://github.com/Aryan-B-Parikh/Bash-Scripters_ODOO25)
+A sustainable clothing exchange platform promoting reuse and community-driven sharing.  
+🛠 Built for Odoo Hackathon '25 with team **Bash Scripters**
+
+---
+
+### 🧠 [SoulSync – Mental Wellness Platform](https://github.com/Prasvi-B/SoulSync)
+A mental wellness initiative helping users track mood, practice mindfulness, and access support.  
+🌿 Focused on tech-for-good and mental health awareness
+
 
 <h2 align="center" style="color:#00BFFF;">💻 Some Cool Projects</h2>
 
@@ -103,7 +120,7 @@
 <div align="center">
 
 🧠 *Always curious. Always learning.*  
-🚀 *Let's build something amazing together!*
+🚀 *Let’s build something amazing together!*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-B-Parikh/Aryan-B-Parikh/output/github-snake-dark.svg" />
