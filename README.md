@@ -2,9 +2,7 @@
 
 # 👨‍💻 Aryan Parikh  
 ### Computer Engineering Student | Full Stack Developer | AI/ML Explorer  
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aryan+Parikh+%F0%9F%91%8B;Computer+Engineering+Student+%7C+2nd+Year;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Impactful+Tech+Solutions;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=Aryan-B-Parikh&style=flat-square&color=00D9FF"/>
   <a href="https://aryan-b-parikh.github.io/">
