@@ -2,7 +2,9 @@
 
 # 👨‍💻 Aryan Parikh  
 ### Computer Engineering Student | Full Stack Developer | AI/ML Explorer  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aryan+Parikh+%F0%9F%91%8B;Computer+Engineering+Student+%7C+2nd+Year;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Impactful+Tech+Solutions;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aryan+Parikh+%F0%9F%91%8B;2nd+Year+Computer+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Impactful+Solutions;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=Aryan-B-Parikh&style=flat-square&color=00D9FF"/>
   <a href="https://aryan-b-parikh.github.io/">
@@ -16,15 +18,15 @@
 
 ## 🚀 About Me  
 
-Hi! I'm **Aryan Parikh**, a **2nd-year Computer Engineering student at CSPIT, CHARUSAT**.  
-I love building **real-world, impact-driven applications** with a focus on **full-stack development, AI/ML, and tech-for-good solutions**.
+Hi! I’m **Aryan Parikh**, a **2nd-year Computer Engineering student at CSPIT, CHARUSAT** with a strong interest in **building scalable, real-world software solutions**.
 
-I strongly believe in **learning by building** — most of my growth comes from hackathons, personal projects, and open-source collaboration.
+I believe in **learning by building** — hackathons, projects, and experimentation are my primary teachers. I enjoy working across the **full stack**, exploring **AI/ML**, and turning ideas into functional products.
 
 - 🎓 Computer Engineering (Software + Core Fundamentals)
-- 💡 Interested in **AI, Data Science, Web Development & Open Source**
-- 🌱 Currently improving **Java, JavaScript, React, Next.js & Databases**
-- 🛠️ Familiar with **C, C++, Python, Git & GitHub**
+- 💡 Interests: **Full Stack Development, AI/ML, Data Science, Open Source**
+- 🌱 Currently sharpening **Java, JavaScript, React, Next.js & Databases**
+- 🛠️ Hands-on with **C, C++, Python, Git & GitHub**
+- 🚀 Goal: Build technology that solves meaningful real-world problems
 - 📫 Email: **aryan81006@gmail.com**
 
 ---
@@ -51,6 +53,11 @@ I strongly believe in **learning by building** — most of my growth comes from 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
+### 🌱 Currently Exploring
+- Machine Learning Fundamentals  
+- Data Structures & Algorithms (Java)  
+- Backend Architecture & System Design Basics  
+
 ---
 
 ## 🚀 Featured Projects  
@@ -58,40 +65,50 @@ I strongly believe in **learning by building** — most of my growth comes from 
 ### ♻️ ReWear — Community Clothing Exchange Platform  
 **Tech:** Python | Odoo | PostgreSQL  
 
-- Built a **sustainable clothing reuse platform**
-- Encourages community-driven sharing & circular economy
-- Developed during **Odoo Hackathon '25**
-- Learned ERP customization, backend workflows & teamwork  
+- Built a **sustainable clothing reuse platform** promoting circular economy
+- Implemented backend workflows & ERP customizations
+- Developed during **Odoo Hackathon 2025**
+- Collaborated in a team-based, time-bound environment  
 
-🔗 **Repo:** https://github.com/Aryan-B-Parikh/Bash-Scripters_ODOO25  
+📌 **Outcome:** Strong understanding of ERP systems, backend logic, and teamwork  
+🔗 **Repository:** https://github.com/Aryan-B-Parikh/Bash-Scripters_ODOO25  
 
 ---
 
 ### 🧠 SoulSync — Mental Wellness Platform  
 **Tech:** React | Node.js | MongoDB  
 
-- Mood tracking & mindfulness-based wellness platform
-- Focused on **UX & mental health awareness**
-- Gained hands-on full-stack experience  
+- Designed a **mental wellness & mood tracking platform**
+- Focused on clean UI, accessibility, and user experience
+- Implemented frontend-backend integration  
 
-🔗 **Repo:** https://github.com/Prasvi-B/SoulSync  
+📌 **Outcome:** Improved full-stack development & REST API skills  
+🔗 **Repository:** https://github.com/Prasvi-B/SoulSync  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity  
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-B-Parikh&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-B-Parikh&theme=tokyo-night&hide_border=true"/>
 </div>
 
+---
+
+## 💡 Why Work With Me?  
+
+- Strong fundamentals with a **fast learning curve**
+- Hands-on experience beyond tutorials
+- Comfortable working in **teams, hackathons & tight deadlines**
+- Curious, disciplined, and growth-oriented mindset
+
+---
 
 ## 🎯 What I’m Looking For  
 
-- 💼 Internships in **Software / Full Stack / AI-ML**
-- 🌍 Open-source collaboration
-- 🚀 Hackathons & real-world problem solving projects
+- 💼 Internship roles in **Software Development / Full Stack / Backend / AI-ML**
+- 🌍 Open-source collaboration opportunities
+- 🚀 Hackathons & problem-driven projects
 
 ---
 
@@ -108,7 +125,6 @@ I strongly believe in **learning by building** — most of my growth comes from 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
 
 ---
 
