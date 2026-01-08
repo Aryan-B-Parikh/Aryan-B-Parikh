@@ -55,7 +55,7 @@ I believe in **learning by building** — hackathons, projects, and experimentat
 
 ### 🌱 Currently Exploring
 - Machine Learning Fundamentals  
-- Data Structures & Algorithms (Java)  
+- Data Structures & Algorithms  
 - Backend Architecture & System Design Basics  
 
 ---
