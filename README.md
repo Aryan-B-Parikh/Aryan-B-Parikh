@@ -7,7 +7,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Aryan-B-Parikh&style=flat-square&color=00D9FF"/>
-  <a href="https://aryan-b-parikh.github.io/">
+  <a href="https://aryanparikhportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
